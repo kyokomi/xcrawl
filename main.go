@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/kyokomi/amber_lambda/crawl"
+	"github.com/kyokomi/crawl"
 	"gopkg.in/xmlpath.v2"
 	"gopkg.in/yaml.v2"
 )
